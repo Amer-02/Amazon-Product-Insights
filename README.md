@@ -29,9 +29,9 @@ This Power BI project analyzes Amazon product data end-to-end — from cleaning 
 
 ## 📁 Files Included
 
-* `Amazon_Product_Dashboard.pbix` — Final Power BI dashboard
-* `amazon.csv` — Cleaned dataset used in the project
-* `README.md` — Project documentation
+* `Amazon Product Insights Dashboard.pbix` — Final Power BI dashboard
+* `Amazon_Cleaned.csv` — Cleaned dataset used in the project
+* `amazon.csv` — Original dataset
 
 ---
 
